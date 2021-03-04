@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-🔭 I’m currently working in React, JavaScript, WordPress, WP REST API, NextJS, and Node.
-💬 Ask me about "headless" WordPress CMS, Gatsby, Gutenberg, and Full-Stack Development.
+- 🌱 I'm a Full-Stack JavaScript/PHP/SQL Web Developer, with expertise in WordPress.
+- 🔭 I’m currently working in React, JavaScript, WordPress, WP REST API, ThreeJS, NextJS, and Node.
+- 💬 Ask me about "Headless" WordPress CMS, Gatsby, Gutenberg, SEO, and WCAG 2.0 (ADA) Compliance.
 
 <!--
 **companyjuice/companyjuice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
