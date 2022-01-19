@@ -2,7 +2,7 @@
 
 - 🌱 I'm a Full-Stack JavaScript/PHP/SQL Web Developer, with expertise in WordPress and Vue 3.
 - 🔭 I’m currently working in Vue, React, JavaScript, WordPress, WP REST API, ThreeJS, NextJS, and Node.
-- 💬 Ask me about "Headless" WordPress CMS, Gatsby, Vue 3, Vite, SEO, and WCAG 2.1 (ADA) Compliance.
+- 💬 Ask me about "Headless" WordPress CMS, Gatsby, Vue 3, Vite, SEO, Ethereum, and WCAG 2.1 (ADA) Compliance.
 
 <!--
 **companyjuice/companyjuice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
